@@ -1,4 +1,4 @@
-0x00. ES6 Basics 
+0x00. ES6 
 
 Setup
 Install NodeJS 12.11.x
