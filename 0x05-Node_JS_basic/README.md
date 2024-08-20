@@ -45,3 +45,7 @@ Paul,Schneider,60,SWE
 Tommy,Schoul,32,SWE
 Katie,Shirou,21,CS
 
+
+and…
+
+Don’t forget to run $ npm install when you have the package.json
